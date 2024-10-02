@@ -1,0 +1,35 @@
+11:22:01.881 [main] INFO  testCases.TC001_AccountResgistartionTest - My Account link click
+11:22:04.234 [main] INFO  testCases.TC001_AccountResgistartionTest - Register link click
+11:22:06.306 [main] INFO  testCases.TC001_AccountResgistartionTest - Providing details
+11:22:12.130 [main] INFO  testCases.TC001_AccountResgistartionTest - Validating message
+11:22:12.417 [main] INFO  testCases.TC001_AccountResgistartionTest - ** TEST COMPLETED **
+11:25:31.227 [main] INFO  testCases.TC001_AccountResgistartionTest - ** STARTING TC001_AccountResgistartionTest **
+11:25:31.537 [main] INFO  testCases.TC001_AccountResgistartionTest - My Account link click
+11:25:32.797 [main] INFO  testCases.TC001_AccountResgistartionTest - Register link click
+11:25:33.987 [main] INFO  testCases.TC001_AccountResgistartionTest - Providing details
+11:25:37.281 [main] INFO  testCases.TC001_AccountResgistartionTest - Validating message
+11:25:37.487 [main] INFO  testCases.TC001_AccountResgistartionTest - ** TEST COMPLETED **
+11:37:45.788 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistartionTest - ** STARTING TC001_AccountResgistartionTest **
+11:37:46.604 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistartionTest - My Account link click
+11:37:48.292 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistartionTest - Register link click
+11:37:49.746 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistartionTest - Providing details
+11:37:53.067 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistartionTest - Validating message
+11:37:53.387 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistartionTest - ** TEST COMPLETED **
+13:07:05.293 [main] INFO  testCases.TC001_AccountResgistartionTest - ** STARTING TC001_AccountResgistartionTest **
+13:07:05.755 [main] INFO  testCases.TC001_AccountResgistartionTest - My Account link click
+13:07:06.428 [main] INFO  testCases.TC001_AccountResgistartionTest - Register link click
+13:07:08.040 [main] INFO  testCases.TC001_AccountResgistartionTest - Providing details
+13:07:12.260 [main] INFO  testCases.TC001_AccountResgistartionTest - Validating message
+13:07:12.463 [main] INFO  testCases.TC001_AccountResgistartionTest - ** TEST COMPLETED **
+11:34:02.728 [main] INFO  testCases.TC001_AccountResgistartionTest - ** STARTING TC001_AccountResgistartionTest **
+11:34:02.983 [main] INFO  testCases.TC001_AccountResgistartionTest - My Account link click
+11:34:04.038 [main] INFO  testCases.TC001_AccountResgistartionTest - Register link click
+11:34:05.856 [main] INFO  testCases.TC001_AccountResgistartionTest - Providing details
+11:34:09.232 [main] INFO  testCases.TC001_AccountResgistartionTest - Validating message
+11:34:09.383 [main] INFO  testCases.TC001_AccountResgistartionTest - ** TEST COMPLETED **
+11:44:17.231 [main] INFO  testCases.TC001_AccountResgistartionTest - ** STARTING TC001_AccountResgistartionTest **
+11:44:17.754 [main] INFO  testCases.TC001_AccountResgistartionTest - My Account link click
+11:44:18.685 [main] INFO  testCases.TC001_AccountResgistartionTest - Register link click
+11:44:20.035 [main] INFO  testCases.TC001_AccountResgistartionTest - Providing details
+11:44:23.159 [main] INFO  testCases.TC001_AccountResgistartionTest - Validating message
+11:44:23.411 [main] INFO  testCases.TC001_AccountResgistartionTest - ** TEST COMPLETED **
